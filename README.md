@@ -19,3 +19,6 @@ https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=
   - Sobre.
   - Interesses.
   - Rodapé.
+
+## Resultado:
+![screenshot do projeto 'meu cartão de visistas'](./react-my-business-card.png).

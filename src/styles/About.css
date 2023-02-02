@@ -1,0 +1,17 @@
+.sobre {
+  background-color: #1a1b21;
+}
+
+.sobre__titulo, .sobre__paragrafo {
+  color: #f5f5f5;
+  margin: 0px;
+  padding: 0rem 2rem;
+}
+
+.sobre__titulo {
+  padding-top: 2rem;
+}
+
+.sobre__paragrafo {
+  margin: 0.5rem 0px 0px 0px;
+}

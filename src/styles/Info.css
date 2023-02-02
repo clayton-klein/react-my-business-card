@@ -1,22 +1,24 @@
-body {
-    background-color: #1A1B21;
-}
-
 .foto {
     border-radius: 10px 10px 0px 0px;
     width: 100%;
 }
 
-.name {
+.info {
+    margin: 0px;
+    background-color: #1A1B21;
+}
+
+.info__name {
     color: white;
     font-size: 1.5rem;
     font-weight: 700;
-    margin-bottom: 0;
-    margin-top: 1.3rem;
+    margin-top: -5px;
+    margin-bottom: 0px;
+    padding-top: 1.3rem;
     text-align: center;
 }
 
-.profession {
+.info__profession {
     color: #F3BF99;
     font-size: 0.75rem;
     margin-bottom: 1rem;
@@ -30,7 +32,7 @@ body {
     justify-content: center;
 }
 
-.emailBtn {
+.btns-container__emailBtn {
     align-items: center;
     background-color: white;
     border-radius: 6px;
@@ -44,7 +46,7 @@ body {
     width: 115px;
 }
 
-.linkedinBtn {
+.btns-container__linkedinBtn {
     align-items: center;
     color: white;
     background-color: #5093E2;

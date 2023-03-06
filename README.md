@@ -1,4 +1,9 @@
-# React My Business Card (solo)
+**Status: finalizado.**
+<br>
+<br>
+<br>
+
+# React My Business Card (solo project)
 
 Este foi o segundo projeto desenvolvido através do curso **React Course - Beginner's Tutorial for React JavaScript Library [2022]**
 

@@ -17,7 +17,12 @@ export default function Info() {
         <h1 className="info__name">Clayton Klein</h1>
         <h2 className="info__profession">Desenvolvedor Frontend</h2>
         <div className="btns-container">
-          <a href="#" className="btns-container__emailBtn" target="_blank">
+          <a
+            href="https://mail.google.com"
+            className="btns-container__emailBtn"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img src={mailIcon} alt="ícone de um envelope"></img> Email
           </a>
           <a
@@ -26,7 +31,11 @@ export default function Info() {
             target="_blank"
             rel="noreferrer"
           >
-            <img src={linkedinIcon} alt="as letras de forma 'i e n' da logo do LinkedIn"></img> LinkedIn
+            <img
+              src={linkedinIcon}
+              alt="as letras de forma 'i e n' da logo do LinkedIn"
+            ></img>{" "}
+            LinkedIn
           </a>
         </div>
       </div>
